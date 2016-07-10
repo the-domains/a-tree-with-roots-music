@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.mixcloud.com'
-  name: Mixcloud
-  favicon: 'https://www.mixcloud.com/media/images/www/global/favicon-64.png'
-  domain: www.mixcloud.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.mixcloud.com/ATreeWithRootsMusic/'
+inLanguage: en
 keywords:
   - musicfolktraditionalrootsmediterranean
   - cohenspoken
@@ -17,8 +15,13 @@ keywords:
   - bluesbluesharmonica
   - dylanzimmycastbronk
   - atreewit
-description: 'A Tree With Roots Music is on Mixcloud. Join to listen to great radio shows, DJ mix sets and Podcasts'
-inLanguage: en
+description: >-
+  A Tree With Roots Music is on Mixcloud. Join to listen to great radio shows,
+  DJ mix sets and Podcasts
+datePublished: '2016-07-10T08:25:19.111Z'
+dateModified: '2016-05-02T17:45:22.118Z'
+author: []
+related: []
 app_links:
   - type: android
     app_name: Mixcloud
@@ -51,16 +54,15 @@ app_links:
     package: com.mixcloud.player
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.mixcloud.com/ATreeWithRootsMusic/'
 title: A Tree With Roots Music
-datePublished: '2016-05-02T17:45:14.434Z'
-dateModified: '2016-04-30T19:37:15.882Z'
-starred: false
 sourcePath: _posts/2016-05-02-a-tree-with-roots-music.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mixcloud
+  domain: www.mixcloud.com
+  url: 'https://www.mixcloud.com'
+  favicon: 'https://www.mixcloud.com/media/images/www/global/favicon-64.png'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
